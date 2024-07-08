@@ -12,7 +12,7 @@ The database consists of the following tables:
 - tipo_transazione: Types of transactions performed.
 - transazioni: Records of all transactions made by customers.
 
-Indicators Created
+## Indicators Created
 Each indicator is referenced to a single `id_cliente`. The indicators include:
 
 - Age: The age of the customer.
